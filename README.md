@@ -1,6 +1,6 @@
-# ChatGPT 中文版：国内访问指南（支持 GPT-4、4o和o1，无需翻墙）【2025年5月更新】
+# ChatGPT 中文版：国内访问指南（支持 GPT-4、4o和o1，无需翻墙）【2025年6月更新】
 
-> 更新：2025/05/27  
+> 更新：2025/06/05  
 
 全面讲解 **ChatGPT 中文版使用指南**，支持GPT-4，**无需翻墙**就能轻松使用上 ChatGPT~
 
@@ -46,7 +46,7 @@
 4. **小鱼GPT ([ai.lansejingyu.com](https://ai.lansejingyu.com/))**  
    简单易用的 **ChatGPT-4 镜像**，快速访问，不需注册。
 
-5. **蓝鲸AI ([lanjing.ai](https://lanjing.ai/))**  
+5. **蓝鲸AI ([lanjing.ai](https://lanjing.pro/))**  
    **免费 GPT 服务**，支持 GPT-4、4o，提供多元功能。
 
 ---
@@ -79,7 +79,7 @@
 
 ## 5. 快速使用 ChatGPT 中文版的方法
 
-1. **访问镜像站点**：选择一个推荐的镜像站点（如 **一下AI ([www.yixiaai.com](https://www.yixiaai.com/))**）。
+1. **访问镜像站点**：选择一个推荐的镜像站点（如 **一下AI ([www.yixiaai.com](https://xsimplechat.com/))**）。
 2. **注册或直接使用**：
    - **扫码登录**：微信扫码即可快速访问，无需注册。
    - **免注册体验**：直接输入问题，立即获得智能解答。
